@@ -72,7 +72,7 @@ public class JFrame extends javax.swing.JFrame {
 
         jButton13.setLabel("-");
 
-        jButton14.setLabel("*");
+        jButton14.setText("×");
 
         jButton15.setLabel("÷");
 
